@@ -1,4 +1,4 @@
-module minio
+module github.com/liyutao210461925/minio
 
 go 1.24.1
 
